@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: My journey to become an archmagos in IT
 ---
 
